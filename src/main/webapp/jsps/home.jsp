@@ -11,7 +11,7 @@
 <body>
 <<<<<<< HEAD
 <h1 align="center">Welcome to Mithun Software Solutions..And also its avery good instute -- GitHub WebHook change.. - 26th Dec 2020</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We dont have a demo on  DevOps with AWS on 10th Jan 2020  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps with AWS on 10th Jan 2020  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 =======
 <h1 align="center">Welcome to Mithun Software Solutions.</h1>
 <h1 align="center"> Mithun Software Solutions- a Very Good Training center for DevOps with AWS in Maratha Halli and also for the Job Support also...Teaching Real Time scnerios</h1>
